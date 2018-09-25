@@ -1,0 +1,67 @@
+{
+    "manifest_version": 2,
+    "theme": {
+        "images": {
+            "theme_frame": "images/bg.jpg",
+            "theme_ntp_background": "images/bg.jpg"
+        },
+        "colors": {
+            "frame": [
+                0,
+                0,
+                0
+            ],
+            "toolbar": [
+                120,
+                0,
+                0,
+                0.3
+            ],
+            "tab_text": [
+                255,
+                255,
+                255
+            ],
+            "tab_background_text": [
+                255,
+                0,
+                0,
+                0.6
+            ],
+            "bookmark_text": [
+                255,
+                255,
+                255
+            ],
+            "ntp_background": [
+                200,
+                0,
+                0
+            ],
+            "ntp_text": [
+                255,
+                255,
+                255
+            ],
+            "button_background": [
+                255,
+                0,
+                0,
+                0.5
+            ]
+        },
+        "tints": {
+            "buttons": [
+                255,
+                0,
+                0.5
+            ]
+        },
+        "properties": {
+            "ntp_background_alignment": "center center",
+            "ntp_background_repeat": "repeat"
+        }
+    },
+    "name": "JR-Chrome",
+    "version": "1.0"
+}
